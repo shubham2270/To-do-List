@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(213, 230, 255) !important;
+}
+ 
+.card{
+    min-height: 500px;
+    background-color: rgb(255, 224, 83) !important;
+    width: 600px;
+    margin-top: 50px;
+}
+
+.wrapper{
+    height: 100%;
+}
+
+.custom{
+    margin: 5px 0px 0px 0px;
+    border-radius: 3px 0px 0px 3px !important;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: rgb(75, 75, 75);
+    width: 90%;  
+}
+ 
+.done{
+    text-decoration-line: line-through !important;
+    background-color: rgb(127, 255, 92) !important; 
+}
+
+.txt-color{
+    color: rgb(129, 86, 0);
+    font-weight: bold;
+}
+
+.margin-css{
+    margin-top: 5px;
+    /* margin-bottom: -1px; */
+    border-radius: 0px 3px 3px 0px !important;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+
